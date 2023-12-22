@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+background-image:url("https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-rainy-weather-with-bad-weather-image_260457.jpg");
+background-repeat:no-repeat;
+ background-size:cover;
 }
 
 code {
